@@ -4,7 +4,7 @@
 
 * ChatGPT can help tailor your resume for the specific job you are looking for.
 
-## Gather Your Information
+#### Gather Your Information
 
 To start, you must have all the important information available.
 
@@ -18,7 +18,7 @@ Work experience: Head promoter of the Traveller 2020 - Present, Head of Design f
 Skills: Expert negotiator, physically active, discerning palate
 Notable achievements: Portfolio: lavorre.example.com , Group Exhibition, Saving the art world 2021.
 
-## Define your Goal
+#### Define your Goal
 
 ChatGPT can help tailor your resume for the specific job you are looking for.
 
@@ -29,7 +29,7 @@ Example: Genevieve Lavorre
 Goal 1: Graphic designer
 Goal 2: Art teacher
 
-## Ask ChatGPT to Write your Resume
+#### Ask ChatGPT to Write your Resume
 
 With the following prompt:
 ```
@@ -40,6 +40,18 @@ I am trained and proficient in painting, drawing, and graphical design. My portf
 Contact information: E-mail: lavorre@tmn.com, Phone: 555-9696. I also have experience with tough negotiations, am physically active, and have a discerning palate.
 I am looking for a job as a graphical designer. If you need any more information to continue, ask.
 
+``
+## Using ChatGPT-3.5 to Summarize`
+You can use ChatGPT as a personal note-taker. It can condense a lot of information into key points.
+
+### Present the Information to be Summarized
+
+To start, you must present the information to ChatGPT.
+
+You can input the text directly or ask ChatGPT to summarize something specific:
+
+```
+Summarize "Romeo and Juliet" by "William Shakespeare".
 ```
 
 ## References:
