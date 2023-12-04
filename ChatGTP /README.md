@@ -6,6 +6,30 @@
 
 Create a resume for me, Genevieve Lavorre. Graduated in 2014 from the University of Nico, ND, with a master's degree in arts. Completed an extensive internship with Traveller Inc., where I was the head promoter and head of design for Traveller Con 2022. In addition, I led a large Group Exhibition called "Saving the art world" in 2021. Can you create a new resume emphasizing my education, skills, and experience? I am trained and proficient in painting, drawing, and graphical design. My portfolio is available at lavorre.example.com . Contact information: E-mail: lavorre@tmn.com, Phone: 555-9696. I also have experience with tough negotiations, am physically active, and have a discerning palate. I am looking for a job as a graphical designer. If you need any more information to continue, ask.
 
+## To start, you must have all the important information available.
+
+Things like contact information, education, work experience, skills, and other notable achievements:
+
+Example: Genevieve Lavorre
+
+Contact information: lavorre@tmn.com, Phone: 555-9696
+Education: Master of Arts from University of Nico, ND - 2010-2014
+Work experience: Head promoter of the Traveller 2020 - Present, Head of Design for Traveller Con 2022
+Skills: Expert negotiator, physically active, discerning palate
+Notable achievements: Portfolio: lavorre.example.com , Group Exhibition, Saving the art world 2021.
+
+## Gather Your Information
+
+ChatGPT can help tailor your resume for the specific job you are looking for.
+
+Set one or more types of job as your goal, and let ChatGPT customize your resume.
+
+Example: Genevieve Lavorre
+
+Goal 1: Graphic designer
+Goal 2: Art teacher
+
+
 ## References:
 
 https://www.w3schools.com/gen_ai/gen_ai_prompt_intro.php
