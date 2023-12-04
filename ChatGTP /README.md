@@ -40,7 +40,7 @@ I am trained and proficient in painting, drawing, and graphical design. My portf
 Contact information: E-mail: lavorre@tmn.com, Phone: 555-9696. I also have experience with tough negotiations, am physically active, and have a discerning palate.
 I am looking for a job as a graphical designer. If you need any more information to continue, ask.
 
-``
+```
 ## Using ChatGPT-3.5 to Summarize`
 You can use ChatGPT as a personal note-taker. It can condense a lot of information into key points.
 
