@@ -41,7 +41,8 @@ Contact information: E-mail: lavorre@tmn.com, Phone: 555-9696. I also have exper
 I am looking for a job as a graphical designer. If you need any more information to continue, ask.
 
 ```
-## Using ChatGPT-3.5 to Summarize`
+
+## Using ChatGPT-3.5 to Summarize
 You can use ChatGPT as a personal note-taker. It can condense a lot of information into key points.
 
 ### Present the Information to be Summarized
